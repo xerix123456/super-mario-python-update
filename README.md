@@ -7,7 +7,7 @@ This is inspired by Meth-Meth-Method's [super mario game](https://github.com/met
 * $ pip install -r requirements.txt
 * $ python main.py
 
-## Standalone windows build
+## Standalone windows build (currently broken)
 
 * $ pip install py2exe
 * $ python compile.py py2exe
